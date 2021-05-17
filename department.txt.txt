@@ -1,0 +1,8 @@
+I am from Computer Science Engineering 
+It is related to coding and Computers subject
+And the branches available in MIC are:
+CSE
+ECE
+IT
+CIVIL
+MECH
